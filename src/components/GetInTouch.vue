@@ -63,7 +63,7 @@
 
 <style lang="scss" scoped>
   .main {
-    width: 50%;
+    width: 900px;
     background-color: var(--foundation-painted-pony-normal-hover, #a78768);
   }
   button {
